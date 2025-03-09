@@ -19,14 +19,14 @@ profile:
     image: team_member.png
     role: Doctoral Researcher
     website: 
-    email: 
+    email: eduardo.c.gomes@tecnico.ulisboa.pt
     phone:
     twitter: 
-    github: 
+    github: ECGomes
     orcid: 
     linkedin: 
     address: >
-        
+        ITI/LARSyS, INESC-ID, Instituto Superior Técnico
 ---
 
 

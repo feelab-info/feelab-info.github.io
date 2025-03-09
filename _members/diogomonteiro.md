@@ -11,7 +11,7 @@ lastname: Monteiro
 publications: 'author^=*Monteiro'
 
 teaser: >
-    
+    Diogo Monteiro received his BSc. degree from the Polytechnic of Lisbon in 2021 in the field of Biomedical Engineering. He is currently graduating from a MSc. degree from the University of Lisbon in Data Science and Engineering.
 
 profile:
     name: BSc Diogo Monteiro
@@ -19,14 +19,15 @@ profile:
     image: team_member.png
     role: Student Researcher
     website: 
-    email: 
+    email: diogo.pinto.monteiro@tecnico.ulisboa.pt
     phone:
     twitter: 
     github: 
-    orcid: 
+    orcid: 0009-0004-3278-1419
     linkedin: 
     address: >
         
 ---
 
+Diogo Monteiro received his BSc. degree from the Polytechnic of Lisbon in 2021 in the field of Biomedical Engineering. He is currently graduating from a MSc. degree from the University of Lisbon in Data Science and Engineering. His thesis centers on federated leaning forecasting algorithms applied to distributed energy resources.
 

@@ -7,8 +7,8 @@ team_frontpage: true
 
 title: BSc Toni Garcês
 description: Profile of BSc Toni Garcês, Student Researcher at the FEELab Group.
-lastname: Nunes
-publications: 'author^=*Nunes'
+lastname: Garcês
+publications: 'author^=*Garcês'
 
 teaser: >
     
@@ -22,11 +22,11 @@ profile:
     email: 
     phone:
     twitter: 
-    github: 
-    orcid: 
+    github: ToniG22
+    orcid: 0009-0003-3469-563X
     linkedin: 
     address: >
-        
+        Universidade da Madeira <br /> Funchal, Portugal
 ---
 
 

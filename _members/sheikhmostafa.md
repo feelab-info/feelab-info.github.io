@@ -11,7 +11,7 @@ lastname: Mostafa
 publications: 'author^=*Mostafa'
 
 teaser: >
-    
+    Sheikh Shanawaz Mostafa is a researcher at Instituto Superior Técnico (IST), University of Lisbon, and a member of ITI/LARSyS. He holds a Ph.D. in Electrical and Computer Engineering from IST, which was conducted in collaboration with Carnegie Mellon University in 2020.
 
 profile:
     name: Dr. Sheikh Mostafa
@@ -19,13 +19,14 @@ profile:
     image: mostafa-profile.jpg
     role: Post-Doctoral Researcher
     website: 
-    email: 
+    email: sheikh.mostafa@tecnico.ulisboa.pt
     phone:
     twitter: 
-    github: 
-    orcid: 
-    linkedin: 
+    github: S2Mostafa
+    orcid: 0000-0002-7677-0971
+    linkedin: s2mostafa
     address: >
+        ARDITI, Funchal, Portugal
         
 ---
 

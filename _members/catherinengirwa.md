@@ -26,8 +26,8 @@ profile:
     orcid: 0000-0002-2760-7908
     linkedin: catherine-cleophace-ngirwa-b6132820b
     address: >
-        ARDITI <br />
-        Madeira, Portugal
+        ITI/LARSyS, University of Madeira <br />
+        Funchal, Portugal
 ---
 
 Catherine is currently pursuing a PhD degree in Informatics Engineering at the eGames lab in Interactive Technologies Institute/Laboratory of Robotics and Systems in Engineering and Science (ITI/LARSyS), University of Madeira, in Madeira, Portugal.
